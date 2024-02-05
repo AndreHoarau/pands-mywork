@@ -1,1 +1,1 @@
-prin(@hello HelloWorld)
+print("HelloWorld")
